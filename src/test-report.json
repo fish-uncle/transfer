@@ -1,0 +1,80 @@
+{
+  "success": true,
+  "data": {
+    "columns": {
+      "id": "工号",
+      "name": "收费员",
+      "payType": "收费渠道",
+      "payNum": "笔数",
+      "payMoney": "实收金额"
+    },
+    "list": [
+      {
+        "id": "2",
+        "name": "刘阿斗",
+        "channel": "贵州燃气",
+        "payType": "支付宝",
+        "payNum": 5,
+        "payMoney": 534.05
+      },
+      {
+        "id": "2",
+        "name": "刘阿斗",
+        "channel": "贵州燃气",
+        "payType": "微信",
+        "payNum": 2,
+        "payMoney": 556.3
+      },
+      {
+        "id": "2",
+        "name": "刘阿斗",
+        "channel": "贵州燃气",
+        "payType": "现金",
+        "payNum": 1,
+        "payMoney": 12.9
+      },
+      {
+        "id": "4",
+        "name": "陈红丽",
+        "channel": "电子发票",
+        "payType": "支付宝",
+        "payNum": 4,
+        "payMoney": 534.05
+      },
+      {
+        "id": "2",
+        "name": "刘阿斗",
+        "channel": "贵州燃气",
+        "payType": "微信",
+        "payNum": 3,
+        "payMoney": 42.9
+      },
+      {
+        "id": "3",
+        "name": "王小明",
+        "channel": "电子发票",
+        "payType": "支付宝",
+        "payNum": 2,
+        "payMoney": 78.08
+      },
+      {
+        "id": "3",
+        "name": "王小明",
+        "channel": "电子发票",
+        "payType": "支付宝",
+        "payNum": 1,
+        "payMoney": 18.34
+      },
+      {
+        "id": "3",
+        "name": "王小明",
+        "channel": "电子发票",
+        "payType": "微信",
+        "payNum": 1,
+        "payMoney": 90.8
+      }
+    ]
+  },
+  "code": 0,
+  "msg": "请求成功"
+}
